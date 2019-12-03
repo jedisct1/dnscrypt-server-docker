@@ -1,6 +1,4 @@
----
-
-dist: xenial
+dist: bionic
 
 language: minimal
 
